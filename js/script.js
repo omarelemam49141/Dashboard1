@@ -215,12 +215,12 @@ new Chart(ctx2, {
          },
          ticks: {
            display: true,
-           color: '#b2b9bf',
+           color: 'grey',
            padding: 10,
            font: {
              size: 14,
              family: "Open Sans",
-             style: 'normal',
+             style: 'bolder',
              lineHeight: 2
            },
          }
